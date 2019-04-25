@@ -1,4 +1,4 @@
-package entidades;
+package course0.application.entidades;
 
 public class Triangle {
 
