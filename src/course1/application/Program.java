@@ -21,7 +21,7 @@ public class Program {
         System.out.print("Quantidade em estoque: ");
         product.quantidade = scanner.nextInt();
 
-        System.out.println(product.nome + ", " + product.preco + ", " + product.quantidade);
+        System.out.println(product);
 
         scanner.close();
     }
